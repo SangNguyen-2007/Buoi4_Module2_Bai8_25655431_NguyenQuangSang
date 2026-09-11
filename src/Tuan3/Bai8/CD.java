@@ -3,7 +3,7 @@ package Tuan3.Bai8;
  * BaiTap tuan3, Bai 8, Nguyen Quang Sang, mssv : 25655431
  */
 public class CD {
-    
+     
     /**
      * khai bao thuoc tinh cho object CD
      */
